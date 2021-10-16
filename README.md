@@ -1,10 +1,5 @@
 ### Hi there 👋
-
-<!--
-**dalsania983/dalsania983** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here you'll find a many practicals of different languages and frameworks with very clear description. Also You'll find a solutions of hackerarnk problems and much more.
-
+Here you'll find a many practicals of JavaScript and React Js UI UX librarys. 
 ---
 ### 🔭 I’m currently working on
 React js, Node Js, JavaScript
@@ -14,7 +9,7 @@ React js, Node Js, JavaScript
 Docker, UI UX library, Frontend Technologies
 
 ---
-### 📢 Find me elsewhere
+<!-- ### 📢 Find me elsewhere
 
 Here are some ideas to get you started:
 
@@ -26,4 +21,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+ -->
